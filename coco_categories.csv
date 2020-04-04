@@ -1,0 +1,81 @@
+supercategory,id,name
+person,1,person
+vehicle,2,bicycle
+vehicle,3,car
+vehicle,4,motorcycle
+vehicle,5,airplane
+vehicle,6,bus
+vehicle,7,train
+vehicle,8,truck
+vehicle,9,boat
+outdoor,10,traffic light
+outdoor,11,fire hydrant
+outdoor,13,stop sign
+outdoor,14,parking meter
+outdoor,15,bench
+animal,16,bird
+animal,17,cat
+animal,18,dog
+animal,19,horse
+animal,20,sheep
+animal,21,cow
+animal,22,elephant
+animal,23,bear
+animal,24,zebra
+animal,25,giraffe
+accessory,27,backpack
+accessory,28,umbrella
+accessory,31,handbag
+accessory,32,tie
+accessory,33,suitcase
+sports,34,frisbee
+sports,35,skis
+sports,36,snowboard
+sports,37,sports ball
+sports,38,kite
+sports,39,baseball bat
+sports,40,baseball glove
+sports,41,skateboard
+sports,42,surfboard
+sports,43,tennis racket
+kitchen,44,bottle
+kitchen,46,wine glass
+kitchen,47,cup
+kitchen,48,fork
+kitchen,49,knife
+kitchen,50,spoon
+kitchen,51,bowl
+food,52,banana
+food,53,apple
+food,54,sandwich
+food,55,orange
+food,56,broccoli
+food,57,carrot
+food,58,hot dog
+food,59,pizza
+food,60,donut
+food,61,cake
+furniture,62,chair
+furniture,63,couch
+furniture,64,potted plant
+furniture,65,bed
+furniture,67,dining table
+furniture,70,toilet
+electronic,72,tv
+electronic,73,laptop
+electronic,74,mouse
+electronic,75,remote
+electronic,76,keyboard
+electronic,77,cell phone
+appliance,78,microwave
+appliance,79,oven
+appliance,80,toaster
+appliance,81,sink
+appliance,82,refrigerator
+indoor,84,book
+indoor,85,clock
+indoor,86,vase
+indoor,87,scissors
+indoor,88,teddy bear
+indoor,89,hair drier
+indoor,90,toothbrush
