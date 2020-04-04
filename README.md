@@ -9,6 +9,7 @@ Overview:
 **
 
 Annotation files are provided for train and validation images for COCO. These are in the form of .json files - 'JavaScript Object Notation' format- the information is in the form of key-value pairs, and if you are familiar with Python, you might recognize this as having a similar format to that of a Python dictionary.
+The code in this repository will convert that information to a PASCAL VOC -type .xml file.
 
 Procedure:
 **
@@ -29,3 +30,15 @@ https://github.com/thtrieu/darkflow
 https://github.com/tzutalin/labelImg
 
 -> You might just want to do this for fun, and improve your Python skills :-)
+
+
+USAGE
+**
+
+-> Download the required annotation files- you may do so from the official COCO dataset (link given above)
+
+-> Change the code accordingly  based on whether the annotation is from train/val (or something else. If something else, the coco annotation format MUST be maintained, .json file and all)
+
+-> Run coco_get_annotations_xml_format.py
+
+-> Get your .xml files, and do what you need to do with them.
