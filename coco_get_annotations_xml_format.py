@@ -24,7 +24,7 @@ def write_to_xml(image_name, image_dict, data_folder, save_folder, xml_template=
     folder.text = 'Annotations'
     
     fname = root.find('filename')
-    fname.text = image_name 
+    fname.text = image_name.split('.')[0] 
     
     src = root.find('source')
     database = src.find('database')
