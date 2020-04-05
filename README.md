@@ -42,3 +42,5 @@ USAGE
 -> Run coco_get_annotations_xml_format.py
 
 -> Get your .xml files, and do what you need to do with them.
+
+![labelimg](https://user-images.githubusercontent.com/58288779/78465309-95911f80-7726-11ea-9a6b-71155412b21e.png)
