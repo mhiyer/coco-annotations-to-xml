@@ -11,6 +11,8 @@ Overview:
 Annotation files are provided for train and validation images for COCO. These are in the form of .json files - 'JavaScript Object Notation' format- the information is in the form of key-value pairs, and if you are familiar with Python, you might recognize this as having a similar format to that of a Python dictionary.
 The code in this repository will convert that information to a PASCAL VOC -type .xml file.
 
+![image](https://user-images.githubusercontent.com/58288779/78465340-06d0d280-7727-11ea-90b7-0a612f6f8c36.png)
+
 Procedure:
 **
 
