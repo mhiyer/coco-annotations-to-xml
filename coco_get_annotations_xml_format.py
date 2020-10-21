@@ -1,11 +1,9 @@
  
 
 import os
-import sys
 import pandas as pd
 import xml.etree.ElementTree as ET
 import matplotlib.pyplot as plt
-import pickle
 import cv2
 import json
 
