@@ -3,7 +3,6 @@
 import os
 import pandas as pd
 import xml.etree.ElementTree as ET
-import matplotlib.pyplot as plt
 import cv2
 import json
 
